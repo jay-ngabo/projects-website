@@ -51,4 +51,4 @@ profiles:
 This project is hosted in heroku [Awwards App]()
 
 #Contact details
-Email: ngabo.jay@stude.com
+Email: ngabo.jay@stu.com
