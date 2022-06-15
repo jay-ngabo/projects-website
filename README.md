@@ -51,4 +51,4 @@ profiles:
 This project is hosted in heroku [Awwards App]()
 
 # Contact details
-* Email: nga.kipsang@student.moringaschool.com
+* Email: ngab.kipsang@student.moringaschool.com
