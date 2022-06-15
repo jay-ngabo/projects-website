@@ -50,5 +50,5 @@ profiles:
 # Live link
 This project is hosted in heroku [Awwards App]()
 
-# Contact details
-* Email: ngabo.ja@student.moringaschool.com
+#Contact details
+Email: ngabo.jay@student.moringaschool.com
