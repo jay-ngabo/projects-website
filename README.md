@@ -41,14 +41,14 @@ This application has an API for developers to consume data from database.
 Specifically posts api and profiles
 posts:
     ```
-    https://awwardsapp1.herokuapp.com/Api/posts
+   
     ```
 profiles:
     ```
-    https://awwardsapp1.herokuapp.com/Api/profiles
+   
     ```
 # Live link
-This project is hosted in heroku [Awwards App](https://awwardsapp1.herokuapp.com/)
+This project is hosted in heroku [Awwards App]()
 
 # Contact details
-* Email: enock.kipsang@student.moringaschool.com
+* Email: ng.kipsang@student.moringaschool.com
