@@ -1,5 +1,5 @@
 # Awwards
-#### By Jacqueli Ngabo
+#### By Jacqueline Ngabo
 ## Description
 Awwards Application is we based app that users post their projects and others gives rating according to various factors
 
