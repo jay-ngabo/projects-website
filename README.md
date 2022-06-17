@@ -48,7 +48,7 @@ profiles:
    
     ```
 # Live link
-This project is hosted in heroku [Awwards App]()
+This project is hosted in heroku [Awwards App](https://whats-poppin-jay-awards.herokuapp.com/)
 
 #Contact details
 Email: ngabo.jay@gmail.com
